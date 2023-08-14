@@ -1,4 +1,4 @@
-# vzw apple watch graft
+# vzw apple watch ungraft
 
 ## Issue
 CoreBlue is giving you an error message asking you to ungraft
