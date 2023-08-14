@@ -3,8 +3,10 @@ title: apple watch graft
 carrier: vzw
 ---
 # Issue
-blah blah blah the error message given is about apple watch needing to be ungrafted
+CoreBlue is giving you an error message asking you to ungraft
 
+# Error Message
+*`[E226:vipsvcs03:03]Line is on number share. Please ungraft before doing this transaction.`*
 
 # Resolution
-This is resolved by unpairing the customer's Apple Watch and disabling number share.
+You have to call Verizon Core at [888-866-6924](tel:8888666924) and ask them to ungraft the cellular watch line from the phone line.
