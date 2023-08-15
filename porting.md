@@ -1,10 +1,12 @@
----
-title: porting
-carrier: att
----
 # Issue
 blah blah blah the error message given is about apple watch needing to be ungrafted
 
 
-# Resolution
-This is resolved by unpairing the customer's Apple Watch and disabling number share.
+# Verizon
+https://vzw.com/port
+
+# AT&T
+https://att.com/port
+
+# T-Mobile
+https://www.t-mobile.com/resources/keep-your-number
